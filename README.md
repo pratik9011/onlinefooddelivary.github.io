@@ -1,1 +1,1 @@
-# onlinefooddelivary.github.io
+# onlinefooddelivery.github.io
